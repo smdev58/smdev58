@@ -1,5 +1,11 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00e676;">S.M.</span></h1>
-<h3 align="center">🚀 Node.js Developer | Backend Engineer | Open Source Enthusiast</h3>
+<!-- Header -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00E676&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+S.M.;🚀+Node.js+Developer;Backend+Engineer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" />
+  
+</div>
 
 ---
 
@@ -11,22 +17,48 @@
 ---
 
 ## ⚡ Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
+<div align="center">
+
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Row 4 -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdev58&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdev58&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/smdev58/smdev58/blob/output/snake.svg" alt="Snake animation" width="600"/>
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212748203-9f6d3e90-0b0a-4d11-b6c6-7c0d37961e9d.gif" width="120"/>
+  
+  <h3>Thanks for visiting! 🌱</h3>
+  
+</div>
