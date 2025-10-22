@@ -48,17 +48,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/smdev58/smdev58/blob/output/snake.svg" alt="Snake animation" width="600"/>
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212748203-9f6d3e90-0b0a-4d11-b6c6-7c0d37961e9d.gif" width="120"/>
-  
-  <h3>Thanks for visiting! 🌱</h3>
-  
-</div>
