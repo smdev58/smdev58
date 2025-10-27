@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center" style="padding: 32px; border-radius: 20px; background: linear-gradient(135deg, rgba(0,230,118,0.10), rgba(0,188,212,0.10)); border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 10px 30px rgba(0,0,0,0.18), inset 0 0 60px rgba(0,230,118,0.08);">
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00E676&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+S.M.;🚀+Node.js+Developer;Backend+Engineer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00E676&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+S.M.;🚀+Node.js+Developer;" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="110" />
 
