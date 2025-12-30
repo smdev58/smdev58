@@ -27,5 +27,5 @@ const S_M = {
         tools: ["Docker", "Git", "AWS"]
     },
     focus: "Building scalable systems",
-    funFact: "☕ Coffee is my fuel"
+    funFact: "Best code is written at 2 AM"
 };
