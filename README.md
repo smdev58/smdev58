@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Анимиран хедър с gradient волни -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,20,24&text=S.M.%20|%20Node.js%20Developer&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Building%20Scalable%20Backend%20Solutions&descAlignY=55&descSize=18"/>
 
-<!-- Анимирано приветствие -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=👋+Hey!+I'm+S.M.;🚀+Backend+Developer;💻+Node.js+%7C+TypeScript+Expert;🌟+Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br>
 
-<!-- Анимирани иконки -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 <br>
 
-<!-- Визуална граница -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <br>
