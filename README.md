@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,20,24&text=S.M.%20|%20Node.js%20Developer&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Building%20Scalable%20Backend%20Solutions&descAlignY=55&descSize=18"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=👋+Hey!+I'm+S.M.;🚀+Backend+Developer;💻+Node.js+%7C+TypeScript+Expert;🌟+Open+Source+Enthusiast" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+S.M.;🚀+Backend+Developer;💻+Node.js+%7C+TypeScript;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br><br>
 
